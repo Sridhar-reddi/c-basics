@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
-	printf("M\nA\nN\nO\nH\nA\nR");
+	printf("S\nR\nI\nD\nH\nA\nR");
 }
