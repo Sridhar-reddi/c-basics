@@ -12,7 +12,7 @@ void main()
 	initial='R';
 	
 	//output
-	printf("%d\n",age);
-	printf("%f\n",cgpa);
-	printf("%c\n",initial);
+	printf("Age of the student is %d\n",age);
+	printf("CGPA of the student is %f\n",cgpa);
+	printf("student sur name starts with %c\n",initial);
 }
